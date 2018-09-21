@@ -1,5 +1,5 @@
 _repo: Paris-en-America_54386
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Sarmiento, Domingo Faustino
@@ -14,12 +14,17 @@ contributor:
   - agent_name: Mansilla, Lucio V.
     gutenberg_agent_id: '47853'
     url: http://www.gutenberg.org/2009/agents/47853
+covers:
+- cover_type: archival
+  image_path: 54386-h/images/cover.jpg
 creator:
   author:
     agent_name: Lefebvre, Renato
     gutenberg_agent_id: '47852'
     url: http://www.gutenberg.org/2009/agents/47852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54386#Paris-en-America
 gutenberg_issued: '2017-03-18'
 gutenberg_type: Text
 identifiers:
