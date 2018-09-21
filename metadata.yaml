@@ -1,0 +1,34 @@
+_repo: Paris-en-America_54386
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Sarmiento, Domingo Faustino
+    aliases:
+    - Sarmiento, D. F. (Domingo Faustino)
+    - Sarmiento, Domingo F. (Domingo Faustino)
+    birthdate: 1811
+    deathdate: 1888
+    gutenberg_agent_id: '36297'
+    url: http://www.gutenberg.org/2009/agents/36297
+    wikipedia: http://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
+  - agent_name: Mansilla, Lucio V.
+    gutenberg_agent_id: '47853'
+    url: http://www.gutenberg.org/2009/agents/47853
+creator:
+  author:
+    agent_name: Lefebvre, Renato
+    gutenberg_agent_id: '47852'
+    url: http://www.gutenberg.org/2009/agents/47852
+description: ''
+gutenberg_issued: '2017-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54386'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Paris en América
+url: http://www.gutenberg.org/ebooks/54386
